@@ -1,2 +1,2 @@
 web: npm start
-release: npm run seed
+release: node lib/database/seed.js
